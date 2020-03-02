@@ -1,8 +1,6 @@
 # TD5-Blockchain
 
-TOKEN ERC20:
-name:TD5TOKEN
-symbol:TDT
+TOKEN ERC20:   name:TD5TOKEN   symbol:TDT
 
 
 Contracts:
